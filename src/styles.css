@@ -1,0 +1,10 @@
+.App{
+    width: 1600px;
+    height:900px;
+    background-image:url("trump.jpg");
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    width: 30%;
+}
